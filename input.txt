@@ -1,0 +1,3 @@
+files/auto.py plagiat1/auto.py
+files/cgd.py plagiat2/cgd.py
+files/cars196.py files/cars196.py
